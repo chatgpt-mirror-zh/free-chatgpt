@@ -1,4 +1,4 @@
-# 国内免费ChatGPT、ChatGPT中文版、ChatGPT镜像网站整理（2024/11/08）
+# 国内免费ChatGPT、ChatGPT中文版、ChatGPT镜像网站整理（2024/11/09）
 给大家整理了一些 国内免费ChatGPT，ChatGPT中文版，国内就能直接用的 ChatGPT镜像网站，免费GPT，ChatGPT-4。
 
 ## 什么是ChatGPT镜像网站？
